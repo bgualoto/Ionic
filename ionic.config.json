@@ -1,0 +1,7 @@
+{
+  "name": "fenomas",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
